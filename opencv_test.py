@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
  
-FILE_NAME = 'input1.jpg'
+FILE_NAME = '~/opencv_test/Input1.jpg'
 try:
     # Read image from disk.
     img = cv2.imread(FILE_NAME)
